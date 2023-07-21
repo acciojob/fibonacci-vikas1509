@@ -3,7 +3,7 @@ function fibonacci(num) {
 	var i =0;
 	var j=1;
 	var ans =0;
-	for(const k=1;k<=num;i++){
+	for(const k=3;k<=num;i++){
 		ans=i+k;
 		i=k;
 	}
